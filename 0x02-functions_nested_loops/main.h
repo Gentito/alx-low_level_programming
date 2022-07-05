@@ -2,11 +2,11 @@ int _putchar(char a);
 /**
  * print_alpha function - print lowercase alphabet
  */
-void print_alpha(void);
+void print_alphabet(void);
 /**
  * print_alpha_x10 function - print lowercase alphabets ten times
  */
-void print_alpha_x10(void);
+void print_alphabet_x10(void);
 /**
  * _islower function - check for lowercase
  */
@@ -24,7 +24,7 @@ int print_sign(int n);
 /**
  * _absolute function - computes absolute value of integer
  */
-int _absolute(int);
+int _abs(int);
 /**
  * print_last_digit function - prints last digit of integer
  */
@@ -36,7 +36,7 @@ void jack_bauer(void);
 /**
  * times_tables function - prints multiplication tables
  */
-void times_tables(void);
+void times_table(void);
 /**
  * add function - adds two integers a and b
  *Return: results
@@ -45,7 +45,7 @@ int add(int a,int b);
 /**
  * print_n_to_98 function - prints number n to 98
  */
-void print_n_to_98(int n);
+void print_to_98(int n);
 /**
  * print_times_table function - prints multiplication table
  */
