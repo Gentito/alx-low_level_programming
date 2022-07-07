@@ -4,7 +4,7 @@
 /**
  * Test function for positive and negative integers
  */
-void positive_or_negative(int n);
+void positive_or_negative(int i);
 /**
  * Print the largest of three integers
  */
@@ -18,3 +18,4 @@ void print_remaining_days(int months, int day, int year);
  */
 int convert_day(int month, int day);
 #endif
+
