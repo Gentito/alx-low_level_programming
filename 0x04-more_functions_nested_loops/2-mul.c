@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * mull - multiplies two numbers
+ * mul - multiplies two numbers
  * @a: 1st number
  * @b: 2nd number
  * Return: product of a and b
