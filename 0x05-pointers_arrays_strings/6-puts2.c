@@ -5,15 +5,14 @@
  */
 void puts2(char *str)
 {
-int i, x = 0;
+int i;
 while (str[i] != '\0')
 {
-i++;
- }
-while (x < i)
+if (i % 2 == 0)
 {
-_putchar(str[x]);
-x = x + 2;
+_putchar(str[i]);
+}
+i++;
 }
 _putchar('\n');
 }
