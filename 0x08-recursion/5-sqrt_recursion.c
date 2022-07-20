@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _sqrt_recursion - main function
- * @n integer input
+ * @n: integer input
  * Return: recursion
  */
 int _sqrt_recursion(int n)
