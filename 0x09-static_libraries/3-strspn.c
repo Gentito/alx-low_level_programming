@@ -17,7 +17,7 @@ if (*(s - 1) == *(accept - 1))
 i++;
 break;
 }
-if (!(*--accept)
+if (!(*--accept))
 break;
 accept = x;
 }

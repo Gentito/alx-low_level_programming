@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isupper - check for upper
- * _@c: integer input
+ * @c: integer input
  * Return: 0 Always
  */
 int _isupper(int c)
