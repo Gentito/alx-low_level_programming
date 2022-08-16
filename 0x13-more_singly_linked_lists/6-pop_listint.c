@@ -14,6 +14,6 @@ return (0);
 tp = *head;
 *head = tp->next;
 info = tp->n;
-free(tp);  
+free(tp);
 return (info);
 }
